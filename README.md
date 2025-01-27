@@ -1,1 +1,10 @@
 # ZeoTap-Assignment
+
+Exploratory Data Analysis (Kumar_Sahil_EDA.ipynb)
+This notebook focuses on EDA, analyzing dataset characteristics using statistical summaries, visualizations, and correlation analysis. It includes data cleaning steps like handling missing values, outlier detection, and transformation techniques. The notebook uses histograms, boxplots, and scatter plots to understand variable distributions and relationships. Advanced analysis might involve feature engineering and hypothesis testing to uncover patterns in the data. The conclusions provide a strong foundation for further modeling or decision-making based on dataset insights.
+
+ Lookalike Modeling Notebook (KUMAR_SAHIL_Lookalike.ipynb)
+This notebook deals with lookalike modeling, which is used in marketing or recommendation systems to identify users with similar behaviors. It likely includes feature engineering techniques to represent user profiles efficiently. The notebook explores supervised or unsupervised learning techniques such as logistic regression, decision trees, or similarity-based clustering. Feature selection and dimensionality reduction techniques (e.g., PCA) might be used to enhance model performance. The final results could include evaluation metrics like precision-recall or AUC-ROC curves, indicating the model's effectiveness in identifying lookalike users.
+
+Clustering Notebook (Kumar_Sahil_Clustering.ipynb)
+This notebook focuses on clustering techniques, likely used for customer segmentation or grouping similar data points. It begins with exploratory data analysis (EDA) to understand data distribution, followed by preprocessing steps such as handling missing values and scaling. The primary method appears to be K-Means clustering, with an elbow method graph to determine the optimal number of clusters. Alternative clustering methods like DBSCAN or Hierarchical Clustering might also be explored. The results are visualized using scatter plots or heatmaps to assess the cluster separability. The notebook concludes with an analysis of cluster characteristics, providing insights into the data's structure.
